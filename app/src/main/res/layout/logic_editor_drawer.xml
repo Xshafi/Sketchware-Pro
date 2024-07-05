@@ -24,6 +24,17 @@
         android:layout_marginLeft="2dp"
         android:layout_marginRight="2dp"
         android:background="@color/scolor_light_grey" />
+    
+    <EditText
+         android:layout_height="wrap_content"
+         android:layout_width="match_parent"
+         android:background="@drawable/search_bar_background"
+         android:hint="Search Blocks"
+         android:layout_margin="4dp"
+         android:padding="4dp"
+         android:textSize="14sp"
+         android:inputType="text"
+         android:id="@+id/search_bar" />
 
     <androidx.cardview.widget.CardView
         android:id="@+id/new_button"
