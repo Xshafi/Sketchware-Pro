@@ -1,3 +1,5 @@
+![1000178261](https://github.com/Xshafi/Sketchware-Pro/assets/95597052/09aa578e-e2b9-4f39-800c-7a897cd1c4fb)
+![1000178268](https://github.com/Xshafi/Sketchware-Pro/assets/95597052/b79cc17b-0f5a-4448-8c1c-9e61ecfa3521)
 <p align="center">
   <img src="assets/Sketchware-Pro.png" style="width: 30%;" />
 </p>
